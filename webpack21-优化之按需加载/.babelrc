@@ -1,0 +1,15 @@
+{
+    "presets": [
+        "react",
+        "env",
+        [
+            "babel-preset-env",
+            {
+                "modules": false
+            }
+        ]
+    ],
+    "plugins": [
+        "syntax-dynamic-import" //识别import
+    ]
+}

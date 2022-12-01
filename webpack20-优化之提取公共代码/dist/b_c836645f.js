@@ -1,0 +1,1 @@
+webpackJsonp([0],{4:function(n,e,r){n.exports=r(5)},5:function(n,e){throw new Error("Module build failed: SyntaxError: Unexpected token (9:6)\n\n   7 |   render() {\n   8 |     return [\n>  9 |       <h1>Page B</h1>,\n     |       ^\n  10 |       <Footer/>,\n  11 |     ]\n  12 |   }\n")}},[4]);

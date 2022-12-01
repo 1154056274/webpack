@@ -1,0 +1,2 @@
+代码压缩工具uglifyjs
+ParallelUglifyPlugin会开启多个子进程，把对多个文件的压缩工作分配给多个子进程去完成，每个子进程其实还是通过 UglifyJS 去压缩代码，但是变成了并行执行

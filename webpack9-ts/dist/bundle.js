@@ -1,0 +1,2 @@
+(()=>{"use strict";var e={74:(e,o)=>{Object.defineProperty(o,"__esModule",{value:!0}),o.show=void 0,o.show=function(e){window.document.getElementById("app").innerText="Hello,"+e}}},o={};(0,function t(r){var n=o[r];if(void 0!==n)return n.exports;var s=o[r]={exports:{}};return e[r](s,s.exports,t),s.exports}(74).show)("Webpack")})();
+//# sourceMappingURL=bundle.js.map
